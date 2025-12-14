@@ -5,7 +5,7 @@ Password generator
 A modern password generator using numbers and characters.
 
 ## 🔗 Live Demo
-👉 https://USERNAME.github.io/REPO_NAME
+👉 https://Taziim.github.io/password-generator
 
 ## 🛠 Tech Stack
 - React
@@ -19,15 +19,5 @@ A modern password generator using numbers and characters.
 - Everytime generate password using the length of the password
 - Able to copy the password
 
-## 📸 Screenshots
-![Screenshot](./screenshots/home.png)
-
-## 📂 Website URL
-https://Taziim.github.io/password-generator
-
 ##📂 Run Webstite locally
 npm run dev to run using locally
-
-
-npm start
-npm start
